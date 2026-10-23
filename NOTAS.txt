@@ -1,0 +1,3 @@
+O git init cria um repositório.
+O git commit regista versões.
+O git push envia para o GitHub.
