@@ -1,4 +1,4 @@
-# Projeto de Introdução à Computação
+# Projeto de Introdução à Computação - Versão A
 
 Projeto de exercícios de Git e GitHub.
 
